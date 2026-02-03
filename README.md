@@ -96,15 +96,6 @@ Real-time news application featuring:
 - 💻 **HTML5** Certification
 - 📊 **Microsoft Office** Certification
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhis-10&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhis-10&layout=compact&theme=radical)
-
-</div>
 
 ## 🤝 Let's Connect!
 
