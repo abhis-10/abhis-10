@@ -33,7 +33,7 @@ I'm a passionate **Software Development Engineer** with expertise in building sc
 
 - Architected a complete movie premiere website using **React.js** and **Node.js**
 - Developed RESTful APIs with **Express.js** for seamless client-server communication
-- Implemented routing, middleware, and server configurations
+- Implemented routing, middleware, and server configurations.
 
 ## 🛠️ Technical Skills
 
