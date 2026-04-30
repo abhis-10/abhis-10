@@ -92,9 +92,9 @@ Real-time news application featuring:
 
 ## 📜 Certifications
 
-- 🎓 **IELTS** - Band Score 7 (International English Language Testing System)
-- 💻 **HTML5** Certification
-- 📊 **Microsoft Office** Certification
+- 🎓 **IELTS** - Band Score 7 (International English Language Testing System).
+- 💻 **HTML5** Certification.
+- 📊 **Microsoft Office** Certification.
 
 
 ## 🤝 Let's Connect!
